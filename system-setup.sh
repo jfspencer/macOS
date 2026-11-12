@@ -72,9 +72,7 @@ readonly CASK_APPS=(
     "google-chrome|Google Chrome"
     "chromium|Chromium Browser"
     # Development
-    "jetbrains-toolbox|JetBrains Toolbox"
     "pgadmin4|pgAdmin 4"
-    "ngrok|ngrok"
     # Media & productivity
     "vlc|VLC Media Player"
     "libreoffice|LibreOffice"
@@ -83,7 +81,6 @@ readonly CASK_APPS=(
     "slack|Slack"
     "zoom|Zoom"
     "drawio|draw.io"
-    "steam|Steam"
     "gimp|GIMP Image Editor"
 )
 
